@@ -14,7 +14,7 @@ const Banner = () => {
                             <p className='md:text-base text-sm text-sec'>Where to grow your business as a photographer: site or social media?</p>
                         </div>
                         <div className="button pt-[32px]">
-                            <Button className={'px-[32px] py-[14px] '}>register</Button>
+                            <Button href={'https://github.com/seizen007/Nexcent.git'} className={'px-[32px] py-[14px] '}>register</Button>
                         </div>
                     </div>
                     <div className="content-right">
